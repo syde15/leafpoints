@@ -1,0 +1,28 @@
+{% extends 'core/base.html' %}
+
+{% block title %}Shadowing{% endblock %}
+
+{% block body_block %}
+
+<h3 class="text-center">Redeem your leafs at a local store around you or donate it to a charity</h3>
+<div class="row">
+    <div class="col-md-12">
+        <p><h1 class="text-center">Your LeafPoints Score is:</h1></p>
+        <p><h2 class="text-center">75</h2></p>
+    </div>
+</div>
+<div class="row">
+        <div class="col-md-6 col-md-offset-3">
+        <FORM METHOD="LINK" ACTION="https://www.grassrootsstore.com#2323342343LeafPoints">
+        <INPUT TYPE="submit" class="btn btn-success" VALUE="Redeem">
+        </FORM>
+        </div>
+        <div class="col-md-3">
+        <FORM METHOD="LINK" ACTION="http://echoage.com/charities#2323342343LeafPoints">
+        <INPUT TYPE="submit" class="btn btn-warning" VALUE="Donate">
+        </FORM>
+        </div>
+</div>
+
+
+{% endblock %}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Django default" uuid="140157bd-2a6d-4e7d-a7d7-b479cc058a9c">
+      <user-name>amin</user-name>
+      <user-password>dfd9dfdedfcbdfd8dfc1</user-password>
+      <schema-pattern>leafpoints.pg_catalog leafpoints.public</schema-pattern>
+      <default-schemas>leafpoints.pg_catalog leafpoints.public</default-schemas>
+    </data-source>
+    <data-source name="Django default2" uuid="395559d0-364c-4072-b211-5e7322932ab6">
+      <first-sync>true</first-sync>
+      <user-name>abdul</user-name>
+      <user-password>dfd9dfdedfcbdfd8dfc1</user-password>
+    </data-source>
+  </component>
+</project>
